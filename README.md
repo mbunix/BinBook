@@ -1,2 +1,3 @@
 # BinBook
-Angular Booking Application
+A Booking Application For All suppliers built on node, next and React.
+
